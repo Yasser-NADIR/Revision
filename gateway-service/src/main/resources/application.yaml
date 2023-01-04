@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    discovery:
+      enabled: true
+  application:
+    name: gateway-service
+
+server:
+  port: 8888
